@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/curves-server-eureka/curves-server-eureka.iml" filepath="$PROJECT_DIR$/curves-server-eureka/curves-server-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curves-server-oauth/curves-server-oauth.iml" filepath="$PROJECT_DIR$/curves-server-oauth/curves-server-oauth.iml" />
+    </modules>
+  </component>
+</project>
