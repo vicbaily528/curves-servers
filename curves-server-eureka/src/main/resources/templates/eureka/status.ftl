@@ -8,7 +8,7 @@
     <base href="<@spring.url basePath/>">
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Curves 服务注册中心</title>
+    <title>服务注册中心</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width">
 
